@@ -36,6 +36,6 @@ src/
 | 7 | 8 | 9 |
 |---|---|---|
 X will play first. Enter a slot number to place X in :
-
+---
 > Built as part of a personal project to practice Java programming and basic console game logic.
 ---
