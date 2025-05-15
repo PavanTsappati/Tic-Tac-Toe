@@ -15,7 +15,7 @@ A classic 3x3 Tic Tac Toe game built in Java. This is a console-based two-player
 * Any Java IDE (Eclipse, IntelliJ, VS Code) or command line
 ---
 🧩 How It Works
-1. Player **X** starts and chooses a cell from 1 to 9.
+1. Player *X* starts and chooses a cell from 1 to 9.
 2. Players take alternate turns, selecting available cells.
 3. The game detects winning conditions or declares a draw if no moves are left.
 4. The board updates visually in the console after each move.
@@ -25,6 +25,7 @@ A classic 3x3 Tic Tac Toe game built in Java. This is a console-based two-player
 src/
  └── TicTacToe.java     - Main Java source file
 ```
+
 ---
 📌 Example Output
 ```
@@ -38,7 +39,7 @@ src/
 X will play first. Enter a slot number to place X in :
 ---
  └── TicTacToe.java     - Main Java source file
+
 ```
-  >Built as part of a personal project to learn Java and backend logic.
    >Built as part of a personal project to practice Java programming and basic console game logic.
 ---
