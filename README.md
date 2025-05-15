@@ -39,5 +39,6 @@ X will play first. Enter a slot number to place X in :
 ---
  └── TicTacToe.java     - Main Java source file
 ```
-  Built as part of a personal project to practice Java programming and basic console game logic.
+  >Built as part of a personal project to learn Java and backend logic.
+   >Built as part of a personal project to practice Java programming and basic console game logic.
 ---
