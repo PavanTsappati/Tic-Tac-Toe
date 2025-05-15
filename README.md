@@ -1,4 +1,4 @@
-🎮 Tic-Tac-Toe Spring Boot Application
+#Tic-Tac-Toe (Java Console Game)
 
 A classic 3x3 Tic Tac Toe game built in Java. This is a console-based two-player game that handles input, turn-taking, win/draw logic, and board updates interactively.
 
